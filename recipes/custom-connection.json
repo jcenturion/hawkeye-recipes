@@ -1,0 +1,1 @@
+{"name":"custom-connection","strategy":"oauth2","options":{"authorizationURL":"http://localhost/auth","tokenURL":"http://localhost/token","scope":"public","scripts":{"fetchUserProfile":"function() {\n  console.log('log');\n}"}}}
