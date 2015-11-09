@@ -1,0 +1,1 @@
+{"name":"test","strategy":"oauth2","options":{"authorizationURL":";klj","tokenURL":";lkj","scope":"","scripts":{"fetchUserProfile":"function() {\n  console.log('hola');\n}"}}}
