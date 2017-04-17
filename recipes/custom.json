@@ -1,0 +1,1 @@
+{"name":"custom","strategy":"oauth2","options":{"authorizationURL":"http://localhos:3000/auth","tokenURL":"http://localhos:3000/token","scope":"public","scripts":{"fetchUserProfile":"function() {\n  console.log('hola');\n}"}}}
